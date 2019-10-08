@@ -256,7 +256,7 @@ public class Call extends javax.swing.JFrame {
            
             
 
-String phone=String.valueOf(jTextField4.getText());
+String phone=String.valueOf(jTextField4.getText()); //get the phone number from jTextField4
         if(phone.length()==10){
             
         
